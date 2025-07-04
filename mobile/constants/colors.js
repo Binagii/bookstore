@@ -10,7 +10,7 @@ const COLORS = {
     cardBackground : "#f1f8f2",
     inputBackground : "#f4faf5",
     border : "#c8e6c9",
-    white : "ffffff",
+    white : "#ffffff",
     black : "#000000",
 };
 

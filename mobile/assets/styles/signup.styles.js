@@ -7,13 +7,13 @@ const styles = StyleSheet.create({
     container : {
         flexGrow : 1,
         backgroundColor : COLORS.background,
-        paddding : 20,
+        padding : 20,
         justifyContent : "center",
     },
     card : {
         backgroundColor : COLORS.cardBackground,
         borderRadius : 16,
-        padding : 24,
+        padding : 25,
         shadowColor : COLORS.black,
         shadowOffset : { width : 0, height : 2},
         shadowOpacity : 0.1,
